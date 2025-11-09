@@ -1,0 +1,5 @@
+{
+  "name": "Course Timetable Visualizer",
+  "description": "An interactive timetable generator to help students plan their semester schedule. Select courses from the list to see them populate the timetable and check for any slot clashes.",
+  "requestFramePermissions": []
+}
